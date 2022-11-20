@@ -1,2 +1,3 @@
 # Portfolio-Web
-Repository untuk menyimpan source code Web Portofolio pribadi saya
+Assalamu'alaikum Warahmatullahi Wabarakatuh.
+Ini adalah Repository untuk menyimpan source code Web Portofolio pribadi saya
